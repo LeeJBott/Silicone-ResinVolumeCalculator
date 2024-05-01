@@ -1,4 +1,4 @@
-# Mould Volume & Silicone/Resin Mixture Calculator...  
+# Mould Volume & Silicone/Resin Mixture Ratio Calculator...  
 Find estimated volume of rectangular/cubic moulds when pouring silicone/resin.  
 Then the program will work out how much silicone/resin + catalyst/activator to efficiently fill mould with minimal waste.  
 
@@ -8,4 +8,4 @@ So if you mix it to the exact amount the program tells you, you will likely have
 
 My mix is 100 parts raw silicone to 5 parts catalyst: change this to tailor your needs per product as most will have differing methods/measurements.  
 Rough guide only.  
-Saves working it out.  
+Saves time working out mix ratio yourself.  
