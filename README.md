@@ -1,6 +1,6 @@
 # Mould Volume & Silicone/Resin Mixture Ratio Calculator...  
-Find estimated volume of rectangular/cubic moulds when pouring silicone/resin.  
-Then the program will work out how much silicone/resin + catalyst/activator to efficiently fill mould with minimal waste.  
+A quick program to find estimated volume of rectangular/cubic moulds when pouring silicone/resin.  
+Then the program will work out how much silicone/resin + catalyst/activator to efficiently fill mould with minimal waste whilst keeping true to the instructions/mixture ratio.  
 
 ## Use to figure out the correct overall mix of silicone when making moulds.  
 Don't forget this program does not measure displacement from the master model when placed inside silicone.   
